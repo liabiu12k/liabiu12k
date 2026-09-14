@@ -26,13 +26,13 @@
 **Actualmente:** construyendo `ClinicIA` como coordinadora y desarrolladora backend — en desarrollo activo, con un artículo de investigación en camino sobre el proyecto.
 
 **Stack**
-- Lenguajes — TypeScript · Java · Python
-- Backend — Node.js · Express
-- Frontend — React · Angular
-- Datos — PostgreSQL
-- IA / Agentes — CrewAI · Gemini · Whisper · ElevenLabs · n8n
-- Visión por computadora — YOLOv8 · Roboflow
-- Infraestructura — Docker · Render
+- TypeScript · Java · Python · SQL
+- Backend: Node.js · Express · Spring Boot · FastAPI
+- Frontend / Fullstack: Next.js · React · Angular
+- Datos y ORMs: PostgreSQL · Prisma · Spring Data JPA
+- IA y Agentes: CrewAI · LangChain · Gemini · Whisper · ElevenLabs · n8n
+- Visión por Computadora: YOLOv8 · Roboflow · OpenCV
+- Infraestructura y DevOps: Docker · Render · GoDaddy · PM2 · Linux
 
 **Proyectos destacados**
 
