@@ -43,7 +43,7 @@
 | **Webapp-Galeno** | Plataforma de preparación para el examen SERUMS. Node.js/Express/PostgreSQL con integración a Google Sheets/Docs API. |
 | **SERUMS Bot Academy** | Bot de Telegram con migración de base de datos SQL. |
 | **Cambio de Consignado (Olva Courier)** | Arquitectura MVC+DAO, React/Node.js/PostgreSQL. |
-| **Detección de uso inadecuado de EPP** | Sistema de visión por computadora (YOLOv8) para el proyecto de una tesista, aplicado a obras de construcción: detecta persona + casco/chaleco/arnés e infiere incumplimientos por posición corporal. Arquitectura Pipe-and-Filter con Singleton, Strategy/Factory, Pipeline, Observer y Dependency Injection; integración con Roboflow y reportes automáticos a Excel. |
+| **Detección de uso inadecuado de EPP** | Sistema de visión por computadora (YOLOv8) para el proyecto de una tesista, aplicado a obras de construcción: detecta persona + casco/chaleco/arnés e infiere incumplimientos por posición corporal. Arquitectura Pipe-and-Filter con Singleton, Strategy/Factory, Pipeline, Observer y Dependency Injection; integración con Roboflow y reportes automáticos a Excel. En desarrollo. |
 
 ---
 
@@ -71,7 +71,7 @@
 | **Webapp-Galeno** | Exam-prep platform for the SERUMS exam. Node.js/Express/PostgreSQL with Google Sheets/Docs API integration. |
 | **SERUMS Bot Academy** | Telegram bot with a SQL database migration. |
 | **Consignee Change System (Olva Courier)** | MVC+DAO architecture, React/Node.js/PostgreSQL. |
-| **PPE Misuse Detection** | Computer-vision system (YOLOv8) for a thesis student's project, applied to construction sites: detects person + helmet/vest/harness and infers non-compliance from body position. Pipe-and-Filter architecture with Singleton, Strategy/Factory, Pipeline, Observer, and Dependency Injection; Roboflow integration and automatic Excel reporting. |
+| **PPE Misuse Detection** | Computer-vision system (YOLOv8) for a thesis student's project, applied to construction sites: detects person + helmet/vest/harness and infers non-compliance from body position. Pipe-and-Filter architecture with Singleton, Strategy/Factory, Pipeline, Observer, and Dependency Injection; Roboflow integration and automatic Excel reporting. In development. |
 
 <br>
 
