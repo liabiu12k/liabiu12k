@@ -54,13 +54,13 @@
 **Currently:** building `ClinicIA` as team coordinator and backend developer — actively in development, with a research article on the project coming soon.
 
 **Stack**
-- Languages — TypeScript · Java · Python
-- Backend — Node.js · Express
-- Frontend — React · Angular
-- Data — PostgreSQL
-- AI / Agents — CrewAI · Gemini · Whisper · ElevenLabs · n8n
-- Computer Vision — YOLOv8 · Roboflow
-- Infrastructure — Docker · Render
+- TypeScript · Java · Python · SQL
+- Backend: Node.js · Express · Spring Boot · FastAPI
+- Frontend / Fullstack: Next.js · React · Angular
+- Data & ORMs: PostgreSQL · Prisma · Spring Data JPA
+- AI & Agents: CrewAI · LangChain · Gemini · Whisper · ElevenLabs · n8n
+- Computer Vision: YOLOv8 · Roboflow · OpenCV
+- Infrastructure & DevOps: Docker · Render · GoDaddy · PM2 · Linux
 
 **Featured Projects**
 
@@ -77,10 +77,28 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=liabiu12k&show_icons=true&theme=dark&hide_border=true&bg_color=050409&title_color=8B5CF6&icon_color=8B5CF6" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liabiu12k&layout=compact&theme=dark&hide_border=true&bg_color=050409&title_color=8B5CF6" height="165" alt="Top languages" />
+![TypeScript](https://img.shields.io/badge/TypeScript-050409?style=flat-square&logo=typescript&logoColor=8B5CF6)
+![Java](https://img.shields.io/badge/Java-050409?style=flat-square&logo=openjdk&logoColor=8B5CF6)
+![Python](https://img.shields.io/badge/Python-050409?style=flat-square&logo=python&logoColor=8B5CF6)
+![Node.js](https://img.shields.io/badge/Node.js-050409?style=flat-square&logo=node.js&logoColor=8B5CF6)
+![Express](https://img.shields.io/badge/Express-050409?style=flat-square&logo=express&logoColor=8B5CF6)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-050409?style=flat-square&logo=springboot&logoColor=8B5CF6)
+![FastAPI](https://img.shields.io/badge/FastAPI-050409?style=flat-square&logo=fastapi&logoColor=8B5CF6)
+![Next.js](https://img.shields.io/badge/Next.js-050409?style=flat-square&logo=nextdotjs&logoColor=8B5CF6)
+![React](https://img.shields.io/badge/React-050409?style=flat-square&logo=react&logoColor=8B5CF6)
+![Angular](https://img.shields.io/badge/Angular-050409?style=flat-square&logo=angular&logoColor=8B5CF6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050409?style=flat-square&logo=postgresql&logoColor=8B5CF6)
+![Prisma](https://img.shields.io/badge/Prisma-050409?style=flat-square&logo=prisma&logoColor=8B5CF6)
+![Docker](https://img.shields.io/badge/Docker-050409?style=flat-square&logo=docker&logoColor=8B5CF6)
+![n8n](https://img.shields.io/badge/n8n-050409?style=flat-square&logo=n8n&logoColor=8B5CF6)
+![OpenCV](https://img.shields.io/badge/OpenCV-050409?style=flat-square&logo=opencv&logoColor=8B5CF6)
+![Linux](https://img.shields.io/badge/Linux-050409?style=flat-square&logo=linux&logoColor=8B5CF6)
+
+</div>
 
 <br>
+
+<div align="center">
 
 <img src="https://ghstats.dev/api/card?username=liabiu12k&theme=radical&border_radius=13.5" alt="GitHub stats card" />
 
